@@ -6,34 +6,22 @@ This is a gradio GUI with supporting [Stable Diffusion XL 1.0](https://github.co
 </a>
 
 ## Examples
-Without any tuning, SDXL generates much better images compared to SD v2.1!
+SDXL generates much better images compared to SD v2.1!
 
 ### Example 1
 <p align="middle">
-<img src="imgs/img1_sdxl1.0.png" width="48%">
-<img src="imgs/img1_sdv2.1.png" width="48%">
+<img src="IMGS/0.jpeg" width="48%">
+<img src="IMGS/5.jpeg" width="48%">
 </p>
 
 ### Example 2
 <p align="middle">
-<img src="imgs/img2_sdxl1.0.png" width="48%">
-<img src="imgs/img2_sdv2.1.png" width="48%">
+<img src="IMGS/5.jpeg" width="48%">
+<img src="IMGS/2.jpeg" width="48%">
 </p>
 
 ### Example 3
 <p align="middle">
-<img src="imgs/img3_sdxl1.0.png" width="48%">
-<img src="imgs/img3_sdv2.1.png" width="48%">
-</p>
-
-### Example 4
-<p align="middle">
-<img src="imgs/img4_sdxl1.0.png" width="48%">
-<img src="imgs/img4_sdv2.1.png" width="48%">
-</p>
-
-### Example 5
-<p align="middle">
-<img src="imgs/img5_sdxl1.0.png" width="48%">
-<img src="imgs/img5_sdv2.1.png" width="48%">
+<img src="IMGS/4.jpeg" width="48%">
+<img src="IMGS/3.jpeg" width="48%">
 </p>
