@@ -11,7 +11,7 @@ import warnings
 
 # Only used when MULTI_GPU set to True
 from helper import UNetDataParallel
-from share_btn import community_icon_html, loading_icon_html share_js
+from share_btn import community_icon_html, loading_icon_html, share_js
 
 # SDXL code: https://github.com/huggingface/diffusers/pull/3859
 
