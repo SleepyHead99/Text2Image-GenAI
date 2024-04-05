@@ -13,9 +13,6 @@ Without any tuning, SDXL generates much better images compared to SD v2.1!
 <img src="imgs/img1_sdxl1.0.png" width="48%">
 <img src="imgs/img1_sdv2.1.png" width="48%">
 </p>
-![WhatsApp Image 2024-04-05 at 9 44 19 PM (1)](https://github.com/aryanchaudhary24/T2IG/assets/146770897/5cf87c74-5905-4801-9920-9ef12797f299)
-![WhatsApp Image 2024-04-05 at 9 44 21 PM](https://github.com/aryanchaudhary24/T2IG/assets/146770897/88f2b599-17ad-4f91-bb2f-9603175483ca)
-![WhatsApp Image 2024-04-05 at 9 44 21 PM](https://github.com/aryanchaudhary24/T2IG/assets/146770897/757a3934-b8b2-4bbb-978f-6c043466a702)
 
 ### Example 2
 <p align="middle">
