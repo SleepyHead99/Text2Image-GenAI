@@ -4,8 +4,9 @@ This is a gradio GUI with web ui supporting [Stable Diffusion XL 1.0](https://gi
 **Update:** [SDXL 1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) is released and our Web UI demo supports it! No application is needed to get the weights! Launch the colab to get started. You can run this demo on Colab for free even on T4. <a target="_blank" href="https://colab.research.google.com/drive/1uiRoUpJ_XPGOka9ORjcmThP_sj8x_cbD#scrollTo=u9v9keo_Ob1u">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-<img src="imgs/sdxl_ssd_lcm.gif" width="48%" alt="SDXL with SSD-1B, LCM LoRA">
-![Uploading img1_sdxl1.0.png…]()
+<img width="718" alt="img1_sdxl1 0" src="https://github.com/aryanchaudhary24/T2IG/assets/146770897/0ef874ca-b419-4cfe-ad76-444e9f7b475b">
+<img width="733" alt="img2_sdxl0 9" src="https://github.com/aryanchaudhary24/T2IG/assets/146770897/80eabc47-fd4f-472c-b34c-c0feaf0d1e1b">
+
 
 ## Examples
 
