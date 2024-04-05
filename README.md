@@ -4,10 +4,8 @@ This is a gradio GUI with web ui supporting [Stable Diffusion XL 1.0](https://gi
 **Update:** [SDXL 1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) is released and our Web UI demo supports it! No application is needed to get the weights! Launch the colab to get started. You can run this demo on Colab for free even on T4. <a target="_blank" href="https://colab.research.google.com/drive/1uiRoUpJ_XPGOka9ORjcmThP_sj8x_cbD#scrollTo=u9v9keo_Ob1u">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-
-**Update:** Multiple GPUs are supported. You can easily spread the workload to different GPUs by setting `MULTI_GPU=True`. This uses data parallelism to split the workload to different GPUs.
-
 <img src="imgs/sdxl_ssd_lcm.gif" width="48%" alt="SDXL with SSD-1B, LCM LoRA">
+![Uploading img1_sdxl1.0.png…]()
 
 ## Examples
 
