@@ -357,7 +357,7 @@ with block:
                   href="https://github.com/aryanchaudhary24/T2IG.git"
                   style="text-decoration: underline;"
                   target="_blank"
-                  >TonyLianLong/stable-diffusion-xl-demo</a>.
+                  >aryanchaudhary24/T2IG</a>.
               </p>
             </div>
         """
