@@ -1,6 +1,3 @@
-To remove the "Share to community" button from the GUI, you can simply remove the corresponding code segment from the Gradio interface setup. I'll modify the code accordingly:
-
-```python
 import gradio as gr
 
 from diffusers import DiffusionPipeline, LCMScheduler
